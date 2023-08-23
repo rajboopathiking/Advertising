@@ -14,7 +14,7 @@ Welcome to the Advertisement  project repository! This project is focused on Ide
 - [Contributing](#contributing)
 - [License](#license)
 
-## Introduction :
+# Introduction :
      Advertisement  project repository. This project is focused on Identity Sales using ads technology. The goal is to develop a system that can accurately identity types of ad will increase sales like TV,Radio,NewsPaper etc...
 
 ## Getting Started
