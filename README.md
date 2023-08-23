@@ -30,17 +30,21 @@ Before you begin, ensure you have the following prerequisites:
 ### Installation
 
 1. Clone this repository to your local machine:
-   -git clone https://github.com/your-username/icr-identity.git
 
-2. Navigate to the project directory:
-   -cd icr-identity
+   git clone https://github.com/your-username/icr-identity.git
 
-3. Create a virtual environment (optional but recommended):
-  -python -m venv venv
-   -source venv/bin/activate  # On Windows: venv\Scripts\activate
+3. Navigate to the project directory:
 
-4. Install the required dependencies:
-    -pip install -r requirements.txt
+    cd icr-identity
+
+5. Create a virtual environment (optional but recommended):
+
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+7. Install the required dependencies:
+
+    pip install -r requirements.txt
 
 # Usage
 # Data Preparation
